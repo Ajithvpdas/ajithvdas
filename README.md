@@ -25,6 +25,7 @@ Currently, I am also learning **DevOps tools and cloud automation** to enhance m
 - Linux (Ubuntu, CentOS, RedHat)
 
 ### ☁ Microsoft & Cloud
+- Microsoft Azure
 - Azure AD / Entra ID  
 - Microsoft Intune  
 - Microsoft 365 (Outlook, Teams, OneDrive, SharePoint)  
